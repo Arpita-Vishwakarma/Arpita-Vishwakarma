@@ -38,7 +38,7 @@ If you like what I do, maybe consider buying me a coffee/tea.. 🥺👉👈
 
 
 
-🚧 **my todoist stats:**
+🚧 **Arpita Vishwakarma's Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  Currently looking for a opportunity        
 🌸  Completed 0 tasks today           
@@ -49,4 +49,4 @@ If you like what I do, maybe consider buying me a coffee/tea.. 🥺👉👈
 
 📈 My GitHub stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arpita-Vishwakarma&show_icons=true&theme=gotham" alt="Arpita-Vishwakarma" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arpita-Vishwakarma&show_icons=true&theme=gotham" alt="Arpita-Vishwakarma">
