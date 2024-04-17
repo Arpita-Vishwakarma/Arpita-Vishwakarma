@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-vishwakarma-a9a16b222)
 
 
-.
+
 I'm Arpita Vishwakarma, Python/Django Maestro & Freelance Software Engineer | Crafting Digital Dreams into Reality with Elegant Code & Interfaces 🚀.
 I'm also an open-source enthusiast and maintainer, and I'm grateful for the knowledge and collaboration that open source provides.
 
@@ -47,6 +47,6 @@ If you like what I do, maybe consider buying me a coffee/tea.. 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 My GitHub stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arpita-Vishwakarma&show_icons=true&theme=gotham" alt="shivaya-dav" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arpita-Vishwakarma&show_icons=true&theme=gotham" alt="Arpita-Vishwakarma" />
