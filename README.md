@@ -11,7 +11,7 @@ I'm also an open-source enthusiast and maintainer, and I'm grateful for the know
 
 ![Coding GIF](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
-- 💼 Open to freelance opportunities: [Email me](mailto:faq.varpita974@gmail.com)
+- 💼 Open to freelance opportunities, Email me: varpita974@gmail.com
 
 - 💬 Feel free to ask me anything; I'm here to help.
 
