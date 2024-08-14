@@ -40,7 +40,7 @@ If you like what I do, maybe consider buying me a coffee/tea.. 🥺👉👈
 
 
 
-🚧 **Arpita Vishwakarma's Todoist Stats:**
+🚧 **Arpita Vishwakarma's Todo List Stats:**
 <!-- TODO-IST:START -->
 🏆  Currently looking for a opportunity        
 🌸  Completed 0 tasks today           
