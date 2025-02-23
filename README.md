@@ -6,9 +6,9 @@
 
 
 
-I'm Arpita Vishwakarma, Python/Django Maestro & Freelance Software Engineer | Crafting Digital Dreams into Reality with Elegant Code & Interfaces 🚀.
-I'm also an open-source enthusiast and maintainer, and I'm grateful for the knowledge and collaboration that open source provides.
+I'm Arpita Vishwakarma, Python/Django Maestro | Crafting Digital Dreams into Reality with Elegant Code & Interfaces 🚀.
 
+🤝 Always open to collaborating on open-source projects! Feel free to reach out if you have an exciting project where I can contribute. Let's build something amazing together!
 ![Coding GIF](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
 - 💼 Open to freelance opportunities, Email me: varpita974@gmail.com
@@ -17,11 +17,15 @@ I'm also an open-source enthusiast and maintainer, and I'm grateful for the know
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/06b97f9042e6f9d237c71f6d91b85e37e1b5b8d5/topics/django/django.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/06b97f9042e6f9d237c71f6d91b85e37e1b5b8d5/topics/typescript/typescript.png"></code>  
+
 
 📊 **This week I spent my time on:**
 ```text
@@ -39,14 +43,13 @@ Javascript      0 secs          ░░░░░░░░░░░░░░░░
 If you like what I do, maybe consider buying me a coffee/tea.. 🥺👉👈
 
 
-
-🚧 **Arpita Vishwakarma's Todo List Stats:**
-<!-- TODO-IST:START -->
-🏆  Currently looking for a opportunity        
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+🚧 **Arpita Vishwakarma's Todo List Stats:**  
+<!-- TODO-IST:START -->  
+🏆  Always exploring new possibilities  
+🌸  Completed 2 tasks today  
+✅  Completed 685 tasks so far  
+⏳  Longest streak is 12 days  
+<!-- TODO-IST:END -->  
 
 
 📈 My GitHub stats:
