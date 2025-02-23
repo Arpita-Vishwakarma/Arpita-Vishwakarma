@@ -7,7 +7,7 @@ I'm Arpita Vishwakarma, a passionate Python/Django Developer with a keen interes
 🤝 Always open to collaborating on open-source projects!                                                                     
 🎯 Goal: To build impactful projects that solve real-world problems.                                       
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="850" height="400">
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="800" height="400">
 
 
 ## 💻 Tech Stack  
