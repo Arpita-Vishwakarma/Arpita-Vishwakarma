@@ -9,21 +9,27 @@
 I'm Arpita Vishwakarma, Python/Django Maestro | Crafting Digital Dreams into Reality with Elegant Code & Interfaces 🚀.
 
 🤝 Always open to collaborating on open-source projects! Feel free to reach out if you have an exciting project where I can contribute. Let's build something amazing together!
-![Coding GIF](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
+
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="850" height="400">
+
+
+
 
 - 💼 Open to freelance opportunities, Email me: varpita974@gmail.com
 
 - 💬 Feel free to ask me anything; I'm here to help.
 
 **Languages and Tools:**
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/06b97f9042e6f9d237c71f6d91b85e37e1b5b8d5/topics/django/django.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/06b97f9042e6f9d237c71f6d91b85e37e1b5b8d5/topics/django/django.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/06b97f9042e6f9d237c71f6d91b85e37e1b5b8d5/topics/typescript/typescript.png"></code>  
 
 
