@@ -17,6 +17,7 @@ I'm Arpita Vishwakarma, a passionate Python/Django Developer with a keen interes
 🔹 **Tools & Platforms:** Docker, Git, Linux, AWS (EC2), Google Cloud  
 🔹 **Data Science & AI:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 
+## 📊 GitHub Stats  
 
 
 
@@ -31,12 +32,6 @@ Javascript      0 secs          ░░░░░░░░░░░░░░░░
 
 ```
 
-<!--END_SECTION:waka-->
-
-
-
-
-## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arpita-Vishwakarma&show_icons=true&theme=gotham&cache_seconds=86400" alt="Arpita's GitHub Stats">
