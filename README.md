@@ -11,7 +11,7 @@ I'm Arpita Vishwakarma, a passionate Python/Django Developer with a keen interes
 
 
 ## 💻 Tech Stack  
-🔹 **Programming:** Python, JavaScript, TypeScript  
+🔹 **Programming:** Python, JavaScript                       
 🔹 **Web Development:** Django, React, React Native, HTML, CSS  
 🔹 **Databases:** MySQL, PostgreSQL, Firebase  
 🔹 **Tools & Platforms:** Docker, Git, Linux, AWS (EC2), Google Cloud  
